@@ -1,0 +1,7 @@
+﻿"C:\Users\elija\source\repos\iCloud Pages\iCloud Pages\obj\x64\Release\ilc\in\iCloud Pages.exe"
+/Lib:"C:\Users\elija\source\repos\iCloud Pages\iCloud Pages\obj\x64\Release\ilc\in"
+/Lib:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.2.7-rel-27913-00\tools\x64\ilc\lib\Private"
+/WinMD:"C:\Users\elija\source\repos\iCloud Pages\iCloud Pages\obj\x64\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{"IsOptedIn":true,"HostName":"Dev14","AppInsightsInstrumentationKey":"f144292e-e3b2-4011-ac90-20e5c03fbce5","AsimovInstrumentationKey":"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70","AppId":1001,"UserId":"215a8fe4-98cc-48ce-b911-502dfcab5c9b","Id":"74523f7d-45de-4022-9256-e21a1ed73766","ProcessStartTime":637161922685360047}"
+/RdXmlPath:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\2.2.7-rel-27913-00\tools\LibraryXML"
+/RunOnlyPreDR

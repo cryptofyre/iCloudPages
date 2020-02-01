@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <UapAppxPackageBuildMode>SideloadOnly</UapAppxPackageBuildMode>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x64</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+    <Source>I:\Downloads\500719e3b7f2f44def1af2b469e69ed7.png</Source>
+    <SmallTileSource>I:\Downloads\500719e3b7f2f44def1af2b469e69ed7.png</SmallTileSource>
+    <MediumTileSource>I:\Downloads\500719e3b7f2f44def1af2b469e69ed7.png</MediumTileSource>
+    <WideTileSource>I:\Downloads\500719e3b7f2f44def1af2b469e69ed7.png</WideTileSource>
+    <LargeTileSource>I:\Downloads\500719e3b7f2f44def1af2b469e69ed7.png</LargeTileSource>
+    <AppIconSource>I:\Downloads\500719e3b7f2f44def1af2b469e69ed7.png</AppIconSource>
+    <SplashScreenSource>I:\Downloads\500719e3b7f2f44def1af2b469e69ed7.png</SplashScreenSource>
+    <PackageLogoSource>I:\Downloads\500719e3b7f2f44def1af2b469e69ed7.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>
